@@ -1,0 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+-r requirements.txt
+torch==2.5.1
+torchvision==0.20.1
