@@ -106,7 +106,7 @@ pip install -r requirements-cu121.txt
 
 ### 只安装公共依赖
 
-如果你已经自行安装好了 `torch` 和 `torchvision`，可以只安装项目公共依赖：
+如果你已经自行安装好了 torch 和 torchvision ，可以只安装项目公共依赖：
 
 ```bash
 pip install -r requirements.txt
